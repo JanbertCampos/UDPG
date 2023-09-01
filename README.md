@@ -1,7 +1,7 @@
 # UDPG
 UDPG - Ultimate Deface Page Generator
 
-This tools can help you to create fast a deface page without hassle in coding and this program has no malware or anykind of bullsh*ts.
+This tools can help you to create fast a deface page without hassle in coding and this program has no malware or anykind of bullsh*sts.
 stay tune in my youtube channel so you will be notified to about UDPG version 2
 
 How to use the program
